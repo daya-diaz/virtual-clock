@@ -25,6 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Relógio Virtual é um projeto desenvolvido para mostrar as horas exatas para seus usuários.
 
+- [Visite o projeto online](https://daya-diaz.github.io/virtual-clock)
+
 ## 🔖 Layout
 
 Você pode visualizar o vídeo do projeto através [DESSE LINK](https://www.youtube.com/watch?v=GK0ok3ZCXwM).
